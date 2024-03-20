@@ -1,6 +1,6 @@
 {
   "name": "honey-money",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "private": false,
   "scripts": {
     "dev": "next dev",
@@ -44,7 +44,9 @@
   },
   "keywords": [
     "nextjs",
-    "tea"
+    "tea",
+    "web3",
+    "crypto"
   ],
   "bugs": {
     "url": "https://github.com/aldifhrent/honey-money/issues"
