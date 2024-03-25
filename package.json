@@ -40,7 +40,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aldifhrent/honey-money"
+    "url": "git+https://github.com/aldifhrent/honey-money.git"
   },
   "keywords": [
     "nextjs",
